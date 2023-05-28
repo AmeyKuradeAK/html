@@ -1,30 +1,90 @@
-h1.header{
-    padding-bottom: 1%;
-    text-align: center;
-    font-weight: 700;
-    font-family: Algerian;
-    font-size: 400%;
-    font-style: italic;
-    color: whitesmoke;
-    background-color: rgb(33 150 243);
-    background-position: 20.5cm;
+h1.main {
+  padding-bottom: 1%;
+  text-align: center;
+  font-weight: 700;
+  font-family: Algerian;
+  font-size: 400%;
+  font-style: italic;
+  color: whitesmoke;
+  background-color: rgb(33 150 243);
 }
 
-marquee.main{
-    background-color: black;
-    color: white;
-    padding: 0%;
+marquee.main {
+  background-color: black;
+  color: white;
+  padding: 0%;
 }
 
-nav.navbar{
-    padding-bottom: 0.5%;
+nav.navbar {
+  padding-bottom: 0.5%;
 }
 
-div.container{
-    border-style: double;
+div.container {
+  border-style: double;
+  margin-top: 2%;
+}
+
+.title {
+  text-align: center;
+}
+
+.introduction {
+  margin-top: 5%;
+  border-top-style: dashed;
+}
+.intro-para {
+  margin-top: 2%;
+}
+
+.understanding {
+  margin-top: 5%;
+  border-top-style: dashed;
+}
+
+.under-para {
+  margin-top: 2%;
+}
+
+.benefits {
+  margin-top: 5%;
+  border-top-style: dashed;
+}
+
+.bene-li1 {
+  margin-top: 2%;
+}
+
+.bene-li2 {
+  margin-top: 2mm;
+}
+
+.bene-li3 {
+  margin-top: 2mm;
+}
+
+.implement {
+  margin-top: 5%;
+  border-top-style: dashed;
+}
+
+.imple-li1 {
+  margin-top: 2%;
+}
+
+.imple-li2 {
+  margin-top: 2mm;
+}
+
+.imple-li3 {
+  margin-top: 2mm;
+}
+
+.conclusion {
+  margin-top: 5%;
+  border-top-style: dashed;
+}
+
+.conclusion-para{
     margin-top: 2%;
 }
 
-.title{
-    text-align: center;
-}
