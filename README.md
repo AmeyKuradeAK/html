@@ -9,8 +9,9 @@ I am using Go daddy for DNS
 
 # Screen Shots
 
+## It's Header
 ![Screenshot](Header.png)
-It's Header
 
+## It's Footer
 ![Screenshot](Footer.png)
-It's Footer
+
