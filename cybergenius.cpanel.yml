@@ -1,0 +1,5 @@
+---
+deployment:
+  tasks:
+    - export DEPLOYPATH=/home/sdbexfmy/public_html/html/
+    - /bin/cp -R images $DEPLOYPATH
