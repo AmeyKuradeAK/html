@@ -9,9 +9,13 @@ I am using Go daddy for DNS
 
 # Screen Shots
 
-## It's Header
+## Blog Site
+
+### It's Header
 ![Screenshot](Header.png)
 
-## It's Footer
+### It's Footer
 ![Screenshot](Footer.png)
 
+## Torrent Site
+![Screenshot](Game-torrent.png)
