@@ -17,5 +17,7 @@ I am using Go daddy for DNS
 ### It's Footer
 ![Screenshot](Footer.png)
 
-## Torrent Site
+## Torrents
+
+### Game
 ![Screenshot](Game-torrent.png)
