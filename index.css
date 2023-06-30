@@ -21,6 +21,7 @@ marquee.main{
 
 nav.navbar{
     padding-bottom: 0.5%;
+    
 }
 
 div.card {
@@ -105,8 +106,12 @@ div.header{
   height: 10%;
 }
 
-.footer{
-
+.container{
+  padding-top: 2%;
+  padding-bottom: 2%;
+  border-style: double;
+  border-left: black , 5cm;
+  border-bottom: black , 4cm;
 }
 
 
